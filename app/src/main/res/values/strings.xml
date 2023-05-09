@@ -1,0 +1,357 @@
+<resources>
+    <string name="app_name">Lyrics Viewer App</string>
+    <string name="my_name_text">Grachelle Alcanse</string>
+    <string name="title_text">Song Lyrics Viewer</string>
+    <string name="ts_name_text">Taylor Swift</string>
+    <string name="start_text">Get Started</string>
+    <string name="all_too_well_text">All Too Well</string>
+    <string name="anti_hero_text">Anti-Hero</string>
+    <string name="bejeweled_text">Bejeweled</string>
+    <string name="cruel_summer_text">Cruel Summer</string>
+    <string name="dont_blame_text">Don\'t Blame Me</string>
+    <string name="enchanted_text">Enchanted</string>
+    <string name="gorgeous_text">Gorgeous</string>
+    <string name="midnight_rain_text">Midnight Rain</string>
+    <string name="atw_text">I walked through the door with you
+        \nThe air was cold
+        \nBut something about it felt like home somehow
+        \nAnd I, left my scarf there at your sister\'s house
+        \nAnd you\'ve still got it in your drawer even now
+        \nOh, your sweet disposition
+        \nAnd my wide-eyed gaze
+        \nWe\'re singing in the car, getting lost upstate
+        \nAutumn leaves falling down like pieces into place
+        \nAnd I can picture it after all these days
+        \nAnd I know it\'s long gone and that magic\'s not here no more
+        \nAnd I might be okay but I\'m not fine at all
+        \n\'Cause there we are again on that little town street
+        \nYou almost ran the red \'cause you were lookin\' over at me
+        \nWind in my hair, I was there
+        \nI remember it all too well
+        \nPhoto album on the counter
+        \nYour cheeks were turning red
+        \nYou used to be a little kid with glasses in a twin-sized bed
+        \nAnd your mother\'s telling stories \'bout you on the tee-ball team
+        \nYou told me \'bout your past thinking your future was me
+        \nAnd I know it\'s long gone and there was nothing else I could do
+        \nAnd I forget about you long enough to forget why I needed to
+        \n\'Cause there we are again in the middle of the night
+        \nWe\'re dancing \'round the kitchen in the refrigerator light
+        \nDown the stairs, I was there
+        \nI remember it all too well, yeah
+        \nAnd maybe we got lost in translation
+        \nMaybe I asked for too much
+        \nBut maybe this thing was a masterpiece \'til you tore it all up
+        \nRunning scared, I was there
+        \nI remember it all too well
+        \nAnd you call me up again just to break me like a promise
+        \nSo casually cruel in the name of being honest
+        \nI\'m a crumpled up piece of paper lying here
+        \n\'Cause I remember it all, all, all
+        \nToo well
+        \nTime won\'t fly, it\'s like I\'m paralyzed by it
+        \nI\'d like to be my old self again
+        \nBut I\'m still trying to find it
+        \nAfter plaid shirt days and nights when you made me your own
+        \nNow you mail back my things and I walk home alone
+        \nBut you keep my old scarf from that very first week
+        \n\'Cause it reminds you of innocence
+        \nAnd it smells like me
+        \nYou can\'t get rid of it
+        \n\'Cause you remember it all too well, yeah
+        \n\'Cause there we are again when I loved you so
+        \nBack before you lost the one real thing you\'ve ever known
+        \nIt was rare, I was there, I remember it all too well
+        \nWind in my hair, you were there, you remember it all
+        \nDown the stairs, you were there, you remember it all
+        \nIt was rare, I was there, I remember it all too well</string>
+    <string name="cs_text">Fever dream high in the quiet of the night
+        \nYou know that I caught it
+        \nBad, bad boy
+        \nShiny toy with a price
+        \nYou know that I bought it
+        \nKilling me slow, out the window
+        \nI\'m always waiting for you to be waiting below
+        \nDevils roll the dice, angels roll their eyes
+        \nWhat doesn\'t kill me makes me want you more
+        \nAnd it\'s new, the shape of your body
+        \nIt\'s blue, the feeling I\'ve got
+        \nAnd it\'s ooh, whoa, oh
+        \nIt\'s a cruel summer
+        \nIt\'s cool, that\'s what I tell \'em
+        \nNo rules in breakable heaven
+        \nBut ooh, whoa oh
+        \nIt\'s a cruel summer
+        \nWith you
+        \nHang your head low
+        \nIn the glow of the vending machine
+        \nI\'m not dying
+        \nYou say that we\'ll just screw it up in these trying times
+        \nWe\'re not trying
+        \nSo cut the headlights, summer\'s a knife
+        \nI\'m always waiting for you just to cut to the bone
+        \nDevils roll the dice, angels roll their eyes
+        \nAnd if I bleed, you\'ll be the last to know
+        \nOh, it\'s new, the shape of your body
+        \nIt\'s blue, the feeling I\'ve got
+        \nAnd it\'s ooh, whoa, oh
+        \nIt\'s a cruel summer
+        \nIt\'s cool, that\'s what I tell \'em
+        \nNo rules in breakable heaven
+        \nBut ooh, whoa, oh
+        \nIt\'s a cruel summer
+        \nWith you
+        \nI\'m drunk in the back of the car
+        \nAnd I cried like a baby coming home from the bar (oh)
+        \nSaid, I\'m fine, but it wasn\'t true
+        \nI don\'t wanna keep secrets just to keep you
+        \nAnd I snuck in through the garden gate
+        \nEvery night that summer just to seal my fate (oh)
+        \nAnd I screamed for whatever it\'s worth
+        \nI love you,  ain\'t that the worst thing you ever heard?
+        \nHe looks up grinning like a devil
+        \nIt\'s new, the shape of your body
+        \nIt\'s blue, the feeling I\'ve got
+        \nAnd it\'s ooh, whoa, oh
+        \nIt\'s a cruel summer
+        \nIt\'s cool, that\'s what I tell \'em
+        \nNo rules, in breakable heaven
+        \nBut ooh, whoa, oh
+        \nIt\'s a cruel summer
+        \nWith you
+        \nI\'m drunk in the back of the car
+        \nAnd I cried like a baby coming home from the bar (h)
+        \nSaid, I\'m fine, but it wasn\'t true
+        \nI don\'t wanna keep secrets just to keep you
+        \nAnd I snuck in through the garden gate
+        \nEvery night that summer just to seal my fate (oh)
+        \nAnd I screamed for whatever it\'s worth
+        \nI love you,  ain\'t that the worst thing you ever heard?</string>
+    <string name="dbm_text">Don\'t blame me, love made me crazy\n
+        If it doesn\'t, you ain\'t doin\' it right\n
+        Lord, save me, my drug is my baby\n
+        I\'ll be usin\' for the rest of my life\n
+        I\'ve been breakin\' hearts a long time, and\n
+        Toyin\' with them older guys\n
+        Just playthings for me to use\n
+        Something happened for the first time, in\n
+        The darkest little paradise\n
+        Shakin, pacin\', I just need you\n
+        For you, I would cross the line\n
+        I would waste my time\n
+        I would lose my mind\n
+        They say, She\'s gone too far this time\n
+        Don\'t blame me, love made me crazy\n
+        If it doesn\'t, you ain\'t doin\' it right\n
+        Lord, save me, my drug is my baby\n
+        I\'ll be usin\' for the rest of my life\n
+        Don\'t blame me, love made me crazy\n
+        If it doesn\'t, you ain\'t doin\' it right\n
+        Oh, Lord, save me, my drug is my baby\n
+        I\'ll be usin\' for the rest of my life\n
+        My name is whatever you decide\n
+        And I\'m just gonna call you mine\n
+        I\'m insane, but I\'m your baby (your baby)\n
+        Echoes (echoes) of your name inside my mind\n
+        Halo, hiding my obsession\n
+        I once was poison ivy, but now I\'m your daisy\n
+        And baby, for you, I (I) would (would) fall from grace\n
+        Just (just) to (to) touch your face\n
+        If (if) you (you) walk away\n
+        I\'d beg you on my knees to stay\n
+        Don\'t blame me, love made me crazy\n
+        If it doesn\'t, you ain\'t doin\' it right\n
+        Lord, save me, my drug is my baby\n
+        I\'ll be usin\' for the rest of my life (yeah, ooh)\n
+        Don\'t blame me, love made me crazy\n
+        If it doesn\'t, you ain\'t doin\' it right\n
+        Oh, Lord, save me, my drug is my baby\n
+        I\'ll be usin\' for the rest of my life\n
+        I get so high, oh\n
+        Every time you\'re, every time you\'re lovin\' me\n
+        You\'re lovin\' me\n
+        Trip of my life, oh\n
+        Every time you\'re, every time you\'re touchin\' me\n
+        You\'re touchin\' me\n
+        Every time you\'re, every time you\'re lovin\' me\n
+        Oh Lord, save me, my drug is my baby\n
+        I\'ll be usin\' for the rest of my life\n
+        Usin\' for the rest of my life, ohh-oh\n
+        Don\'t blame me, love made me crazy\n
+        If it doesn\'t, you ain\'t doin\' it right (doin\' it right, no)\n
+        Lord, save me, my drug is my baby\n
+        I\'ll be usin\' for the rest of my life (oh)\n
+        Don\'t blame me, love made me crazy (ooh)\n
+        If it doesn\'t, you ain\'t doin\' it right (you ain\'t doin\' it right)\n
+        Oh, Lord, save me, my drug is my baby\n
+        I\'ll be usin\' for (I\'ll be usin\') the rest of my life (I\'ll be usin\')\n
+        I get so high, oh\n
+        Every time you\'re, every time you\'re lovin\' me\n
+        You\'re lovin\' me\n
+        Oh, Lord, save me, my drug is my baby\n
+        I\'ll be usin\' for the rest of my life</string>
+    <string name="e_text">There I was again tonight\n
+        Forcing laughter, faking smiles\n
+        Same old tired, lonely place\n
+        Walls of insincerity, shifting eyes and vacancy\n
+        Vanished when I saw your face\n
+        All I can say is, it was enchanting to meet you\n
+        Your eyes whispered, Have we met?\n
+        \'Cross the room your silhouette\n
+        Starts to make its way to me\n
+        The playful conversation starts\n
+        Counter all your quick remarks\n
+        Like passing notes in secrecy\n
+        And it was enchanting to meet you\n
+        All I can say is, I was enchanted to meet you\n
+        This night is sparkling, don\'t you let it go\n
+        I\'m wonderstruck, blushing all the way home\n
+        I\'ll spend forever wondering if you knew\n
+        I was enchanted to meet you\n
+        The lingering question kept me up\n
+        2 AM, who do you love?\n
+        I wonder \'til I\'m wide awake\n
+        And now I\'m pacing back and forth\n
+        Wishing you were at my door\n
+        I\'d open up and you would say, Hey\n
+        It was enchanting to meet you\n
+        All I know is, I was enchanted to meet you\n
+        This night is sparkling, don\'t you let it go\n
+        I\'m wonderstruck, blushing all the way home\n
+        I\'ll spend forever wondering if you knew\n
+        That this night is flawless, don\'t you let it go\n
+        I\'m wonderstruck, dancing around all alone\n
+        I\'ll spend forever wondering if you knew\n
+        I was enchanted to meet you\n
+        This is me praying that\n
+        This was the very first page\n
+        Not where the story line ends\n
+        My thoughts will echo your name, until I see you again\n
+        These are the words I held back, as I was leaving too soon\n
+        I was enchanted to meet you\n
+        Please don\'t be in love with someone else\n
+        Please don\'t have somebody waiting on you\n
+        Please don\'t be in love with someone else\n
+        Please don\'t have somebody waiting on you\n
+        This night is sparkling, don\'t you let it go\n
+        I\'m wonderstruck, blushing all the way home\n
+        I\'ll spend forever wondering if you knew\n
+        This night is flawless, don\'t you let it go\n
+        I\'m wonderstruck, dancing around all alone\n
+        I\'ll spend forever wondering if you knew\n
+        I was enchanted to meet you\n
+        Please don\'t be in love with someone else\n
+        Please don\'t have somebody waiting on you</string>
+    <string name="g_text">You should take it as a compliment\n
+        That I got drunk and made fun of the way you talk\n
+        You should think about the consequence\n
+        Of your magnetic field being a little too strong\n
+        And I got a boyfriend, he\'s older than us\n
+        He\'s in the club doing, I don\'t know what\n
+        You\'re so cool, it makes me hate you so much (I hate you so much)\n
+        Whisky on ice, Sunset and Vine\n
+        You\'ve ruined my life, by not being mine\n
+        You\'re so gorgeous\n
+        I can\'t say anything to your face\n
+        \'Cause look at your face\n
+        And I\'m so furious\n
+        At you for making me feel this way\n
+        But, what can I say?\n
+        You\'re gorgeous\n
+        You should take it as a compliment\n
+        That I\'m talking to everyone here but you (but you, but you)\n
+        And you should think about the consequence\n
+        Of you touching my hand in the darkened room (dark room, dark room)\n
+        If you\'ve got a girlfriend, I\'m jealous of her\n
+        But if you\'re single that\'s honestly worse\n
+        \'Cause you\'re so gorgeous it actually hurts\n
+        (Honey, it hurts)\n
+        Ocean blue eyes looking in mine\n
+        I feel like I might sink and drown and die\n
+        You\'re so gorgeous\n
+        I can\'t say anything to your face (to your face)\n
+        \'Cause look at your face (look at your face)\n
+        And I\'m so furious\n
+        At you for making me feel this way\n
+        But what can I say?\n
+        You\'re gorgeous\n
+        You make me so happy, it turns back to sad, yeah\n
+        There\'s nothing I hate more than what I can\'t have\n
+        You are so gorgeous it makes me so mad\n
+        You make me so happy, it turns back to sad, yeah\n
+        There\'s nothing I hate more than what I can\'t have\n
+        Guess I\'ll just stumble on home to my cats\n
+        Alone, unless you wanna come along, oh\n
+        You\'re so gorgeous\n
+        I can\'t say anything to your face (to your face)\n
+        \'Cause look at your face (look at your face)\n
+        And I\'m so furious (I\'m so furious)\n
+        At you for making me feel this way (feel this way)\n
+        But what can I say? (I say)\n
+        You\'re gorgeous\n
+        You make me so happy, it turns back to sad, yeah\n
+        There\'s nothing I hate more than what I can\'t have\n
+        You are so gorgeous it makes me so mad\n
+        You\'re gorgeous\n
+        You make me so happy, it turns back to sad, yeah\n
+        There\'s nothing I hate more than what I can\'t have\n
+        You are so gorgeous it makes me so mad\n
+        You\'re gorgeous</string>
+    <string name="mnr_text">Rain, he wanted it comfortable\n
+        I wanted that pain\n
+        He wanted a bride\n
+        I was making my own name\n
+        Chasing that fame\n
+        He stayed the same\n
+        All of me changed like midnight\n
+        My town was a wasteland\n
+        Full of cages, full of fences\n
+        Pageant queens and big pretenders\n
+        But for some, it was paradise\n
+        My boy was a montage\n
+        A slow-motion, love potion\n
+        Jumping off things in the ocean\n
+        I broke his heart \'cause he was nice\n
+        He was sunshine, I was midnight rain\n
+        He wanted it comfortable\n
+        I wanted that pain\n
+        He wanted a bride\n
+        I was making my own name\n
+        Chasing that fame\n
+        He stayed the same\n
+        All of me changed like midnight\n
+        It came like a postcard\n
+        Picture perfect, shiny family\n
+        Holiday, peppermint candy\n
+        But for him it\'s every day\n
+        So I peered through a window\n
+        A deep portal, time travel\n
+        All the love we unravel\n
+        And the life I gave away\n
+        \'Cause he was sunshine\n
+        I was midnight rain\n
+        He wanted it comfortable\n
+        I wanted that pain\n
+        He wanted a bride\n
+        I was making my own name\n
+        Chasing that fame\n
+        He stayed the same\n
+        All of me changed\n
+        Like midnight\n
+        Rain, he wanted it comfortable\n
+        I wanted that pain\n
+        He wanted a bride\n
+        I was making my own name\n
+        Chasing that fame\n
+        He stayed the same\n
+        All of me changed\n
+        Like midnight\n
+        I guess sometimes we all get\n
+        Just what we wanted, just what we wanted\n
+        And he never thinks of me\n
+        Except when I\'m on TV\n
+        I guess sometimes we all get\n
+        Some kind of haunted, some kind of haunted\n
+        And I never think of him\n
+        Except on midnights like this (midnights like this)</string>
+</resources>
